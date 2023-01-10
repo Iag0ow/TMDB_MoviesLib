@@ -1,5 +1,7 @@
 <h1 align="center" >MovieLib Clone</h1>
 <h2>Desenvolvido com React + Vite</h2>
+<h2>acesse https://tmdb-movies-lib.vercel.app/</h2>
+<br>
 <br><br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90112622/211631734-d4d154fa-5d59-4b5b-93e0-67b82441d611.png" alt="">
