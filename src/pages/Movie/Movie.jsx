@@ -54,7 +54,7 @@ const Movie = () => {
             </h3>
             <p>{formatCurrency(movie.revenue)}</p>
           </div>
-          <div className="info-description">
+          <div className="info">
             <h3>
               <BsHourglassSplit /> Duração:
             </h3>
